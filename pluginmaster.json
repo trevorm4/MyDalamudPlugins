@@ -1,5 +1,25 @@
 [
     {
+        "Author": "Trevor",
+        "Name": "DelvCD: Trevor's Version",
+        "Description": "DelvCD provides highly customizable UI elements that can be used to track cooldows, status and more with configurable conditions.",
+        "InternalName": "DelvCD",
+        "AssemblyVersion": "1.1.0.0",
+        "RepoUrl": "https://github.com/DelvUI/DelvCD",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "UI"
+        ],
+        "DalamudApiLevel": 10,
+        "DownloadLinkInstall": "https://github.com/trevorm4/MyDalamudPlugins/raw/master/plugins/DelvCD/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/trevorm4/MyDalamudPlugins/raw/master/plugins/DelvCD/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/trevorm4/MyDalamudPlugins/raw/master/plugins/DelvCD/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1721511180"
+    },
+    {
         "Author": "attick, daemitus, Khayle, cultbaus",
         "Name": "XIV Combo Expanded",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
