@@ -3,7 +3,7 @@
         "Author": "Trevor",
         "Name": "DelvCD: Trevor's Version",
         "Description": "DelvCD provides highly customizable UI elements that can be used to track cooldows, status and more with configurable conditions.",
-        "InternalName": "DelvCD",
+        "InternalName": "DelvCD_Trevor",
         "AssemblyVersion": "1.1.0.0",
         "RepoUrl": "https://github.com/DelvUI/DelvCD",
         "ApplicableVersion": "any",
@@ -11,13 +11,13 @@
             "UI"
         ],
         "DalamudApiLevel": 10,
-        "DownloadLinkInstall": "https://github.com/trevorm4/MyDalamudPlugins/raw/master/plugins/DelvCD/latest.zip",
+        "DownloadLinkInstall": "https://github.com/trevorm4/MyDalamudPlugins/raw/master/plugins/DelvCD_Trevor/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/trevorm4/MyDalamudPlugins/raw/master/plugins/DelvCD/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/trevorm4/MyDalamudPlugins/raw/master/plugins/DelvCD/latest.zip",
+        "DownloadLinkTesting": "https://github.com/trevorm4/MyDalamudPlugins/raw/master/plugins/DelvCD_Trevor/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/trevorm4/MyDalamudPlugins/raw/master/plugins/DelvCD_Trevor/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1721511180"
+        "LastUpdated": "1721511925"
     },
     {
         "Author": "attick, daemitus, Khayle, cultbaus",
