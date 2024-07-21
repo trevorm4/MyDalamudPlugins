@@ -1,8 +1,8 @@
 {
-  "Author": "Trevor",
-  "Name": "DelvCD: Trevor's Version",
+  "Author": "Tischel",
+  "Name": "DelvCD",
   "InternalName": "DelvCD_Trevor",
-  "AssemblyVersion": "1.1.0.0",
+  "AssemblyVersion": "1.1.0.4",
   "Description": "DelvCD provides highly customizable UI elements that can be used to track cooldows, status and more with configurable conditions.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/DelvUI/DelvCD",
